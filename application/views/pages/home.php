@@ -13,7 +13,7 @@
             <img data-src="<?php echo base_url("assets/images/sb_1.jpg");?>" alt="900x500" src="<?php echo base_url("assets/images/banner-1.jpg");?>">
             <div class="carousel-caption">
                 <h3> Varial Kick Flip </h3>
-                <p> Do a Kick Flip or some serious Technical Skating on Motion Board XXXX</p>
+                <p> Do a Kick Flip or some serious Technical Skating on Motion Board XXXXYYYY</p>
             </div>
         </div>
         <div class="item" onclick="location.href='<?php echo base_url();?>product'">
@@ -27,8 +27,8 @@
         <div class="item active" onclick="location.href='<?php echo base_url();?>product'">
             <img data-src="<?php echo base_url("assets/images/sb_4.jpg");?>" alt="900x500" src="<?php echo base_url("assets/images/banner-3.jpg");?>">
             <div class="carousel-caption">
-                <h3>Pro Skate Board Motion 110000</h3>
-                <p> Do all your cool stuff on Contoso board Motion 110000.</p>
+                <h3>Pro Skate Board Motion 9000</h3>
+                <p> Do all your cool stuff on Contoso board Motion 9000.</p>
             </div>
         </div>
     </div>
